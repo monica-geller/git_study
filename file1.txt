@@ -1,4 +1,1 @@
-file1-master
-c-master
-c
-c
+file1
